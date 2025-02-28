@@ -1,64 +1,42 @@
-# Deutsch Vocab Trainer
+# Deutsch Vocab Trainer 🇩🇪✨
 
-An interactive and user-friendly vocabulary trainer to help learn and retain German words effectively. Built with modern web technologies to provide a seamless learning experience.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/prasadt1/deutsch-vocab-trainer)](https://github.com/prasadt1/deutsch-vocab-trainer/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/prasadt1/deutsch-vocab-trainer/pulls)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://deutsch-vocab-trainer.vercel.app)
 
-## 🚀 Features
+A modern web application to help learners master German vocabulary through interactive exercises and spaced repetition.
 
-- 📝 **Flashcards** – Learn vocabulary through an interactive flashcard system.
-- 🎯 **Quiz Mode** – Test your knowledge with engaging quizzes.
-- 📊 **Progress Tracking** – Monitor your learning journey over time.
-- 🔤 **Custom Word Lists** – Add and manage personalized vocabulary lists.
-- 🌙 **Dark Mode** – Switch between light and dark themes for comfortable usage.
+![App Banner](./public/banner.png) <!-- Add a screenshot and update path -->
 
-## 🛠️ Tech Stack
+## Features 🚀
 
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: Firebase Auth
+- **Vocabulary Quizzes**: Test your knowledge with multiple question types
+- **Spaced Repetition**: Smart system that adapts to your learning pace
+- **Progress Tracking**: Visualize your learning journey with detailed stats
+- **Interactive Exercises**: Multiple-choice, fill-in-the-blank, and matching questions
+- **User-Friendly Interface**: Clean, intuitive design with dark/light mode
+- **Audio Support**: Hear proper pronunciation of German words
 
-## 📸 Screenshots
+## Tech Stack 💻
 
-| Home Page | Flashcards | Quiz Mode |
-|-----------|------------|-------------|
-| ![Home](./screenshots/home.png) | ![Flashcards](./screenshots/flashcards.png) | ![Quiz](./screenshots/quiz.png) |
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **State Management**: Redux Toolkit
+- **Routing**: React Router
+- **Backend**: Node.js, Express (if applicable)
+- **Database**: MongoDB (if applicable)
+- **Testing**: Jest, React Testing Library
+- **Deployment**: Vercel
 
-## 🎯 Roadmap
+## Getting Started 🛠️
 
-- [ ] Improve UI/UX with animations and transitions
-- [ ] Add more learning modes (e.g., Listening & Typing)
-- [ ] Implement spaced repetition algorithm
-- [ ] Mobile app version
+### Prerequisites
 
-## 📦 Installation
+- Node.js v16+
+- npm v8+
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/prasadt1/deutsch-vocab-trainer.git
-   cd deutsch-vocab-trainer
-   ```
-2. **Install dependencies**
-   ```sh
-   npm install
-   ```
-3. **Start the development server**
-   ```sh
-   npm start
-   ```
+### Installation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙌 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📫 Contact
-
-- GitHub: [@prasadt1](https://github.com/prasadt1)
-- LinkedIn: [Prasad Tilloo](https://linkedin.com/in/prasadtilloo)
-
----
-Happy learning! 🇩🇪🎓
-
+1. Clone the repository
+```bash
+git clone https://github.com/prasadt1/deutsch-vocab-trainer.git
