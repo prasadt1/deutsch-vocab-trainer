@@ -57,7 +57,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## 📫 Contact
 
 - GitHub: [@prasadt1](https://github.com/prasadt1)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Prasad Tilloo](https://linkedin.com/in/prasadtilloo)
 
 ---
 Happy learning! 🇩🇪🎓
